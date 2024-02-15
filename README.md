@@ -9,7 +9,7 @@ BUT WE ARE GOING TO MAKE SOME CHANGES AND IMPROVE IT!
 
 ### HTML
 
-There is not much room to improve the HTML file, but I have changed the abusive use of the <div> tags and instead use more semantic HTML tags. It is possible more changes will come soon.
+There is not much room to improve the HTML file, but I have changed the abusive use of the div tags and instead use more semantic HTML tags. It is possible more changes will come soon.
 
 ### CSS
 
