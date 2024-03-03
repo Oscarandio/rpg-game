@@ -1,20 +1,15 @@
-# A RPG Game made with Typescript
+<header align="center" style="border-bottom: 1px solid gray; margin-bottom: 18px;">
+    <h3>Role Playing Game</h3>
+    <p>From the course <strong>JavaScript Algorithms</strong> and <strong>Data Structures</strong> on <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">freecodecamp.org</a></p>
+</header>
 
-## Javascript Algorithms and Data Structures 
-URL: [From the course in freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8)
+<p>I have typed the code using Typescript (originally in Javascript) and I have used Vite as a bundle for its simplicity. I have divided the code into ES Modules for legibility (there is still work to do). Lastly, I also improved the styles by creating some variables</p>
 
-This is the free course available in freecodecamp. In this course you can build a simple RPG Game using HTML, CSS and Javascript.
+![Main picture](./public/portada.jpg)
 
-BUT WE ARE GOING TO MAKE SOME CHANGES AND IMPROVE IT!
+###Stack
 
-### HTML
-
-There is not much room to improve the HTML file, but I have changed the abusive use of the div tags and instead use more semantic HTML tags. More changes will come soon.
-
-### CSS
-
-I added the use of variables for the colors to make future changes easier and changed some styles, more will be done soon.
-
-### Javascript to Typescript
-
-Done! 
+<ul>
+<li><a target="_blank" href="https://vitejs.dev/">Vite</a> - Next Generation Frontend Tooling</li>
+<li><a target="_blank" href="https://www.typescriptlang.org/">Typescript</a> - JavaScript con sintaxis de tipado.</li>
+</ul>
