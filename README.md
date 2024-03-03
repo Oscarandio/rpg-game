@@ -1,4 +1,4 @@
-# A RPG Game made with Javascript (and soon Typescript)
+# A RPG Game made with Typescript
 
 ## Javascript Algorithms and Data Structures 
 URL: [From the course in freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8)
