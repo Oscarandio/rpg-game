@@ -15,6 +15,6 @@ There is not much room to improve the HTML file, but I have changed the abusive 
 
 I added the use of variables for the colors to make future changes easier and changed some styles, more will be done soon.
 
-### Javascript
+### Javascript to Typescript
 
-Still not completed, but when it's done, the idea is to modularize the Javascript in separate files and then use Typescript. 
+Done! 
